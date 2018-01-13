@@ -1,0 +1,111 @@
+/*XS*/
+@media (max-width:575px)
+{
+  h4
+  {
+    font-size: 0.9em;
+  }
+
+  .footer
+  {
+    line-height: 60px;
+    background-color: #202020;
+    color: #fff;
+    font-size: 0.8em;
+  }
+
+  .big-section-title
+  {
+    font-size: 1.8em;
+  }
+
+  /*
+  ==========================================================================
+  About
+  ==========================================================================
+  */
+
+  #about img
+  {
+      width: 200px;
+      height: 200px;
+  }
+
+  #about p
+  {
+    font-size: 0.9em;
+    color: #7B7777;
+  }
+
+  #about h1
+  {
+    color: ##003300;
+    font-size: 1.5em;
+    margin-top: 20px;
+  }
+
+  #about hr
+  {
+    color: ##003300;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+
+  /*
+  ==========================================================================
+  Knowledge
+  ==========================================================================
+  */
+
+  #knowledge img
+  {
+    margin-bottom: 10px;
+    width: 30px;
+    height: 30px;;
+  }
+
+  #knowledge p
+  {
+    font-size: 0.8em;
+  }
+
+  /*
+  ==========================================================================
+  Location
+  ==========================================================================
+  */
+
+  .location-img
+  {
+    min-height: 70px;
+    background-size: contain;
+  }
+
+  .alert-Location{
+    min-width: 180px;
+  }
+
+  #Location
+  {
+    max-height: 300px;
+    background-size: cover;
+  }
+
+  #Location p
+  {
+    font-size: 0.7em;
+    margin-bottom: 0;
+  }
+
+  #Location hr
+  {
+    margin-bottom: 3  px;
+    margin-top: 3px;
+  }
+
+  #projects p, #projects li
+  {
+    font-size: 0.8em;
+  }
+
+}
